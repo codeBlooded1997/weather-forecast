@@ -1,8 +1,15 @@
 <h1>Weather Forecast</h1>
-<br>
 <p>Arian Aghnaei</p>
-<br>
 <p>Fall 2019</p>
 <br>
+<h2>What I learned :</h2>
+<ol>
+  <li>Using panda library to store information into a pandas data frame</li>
+  <li>Writing stored data into a csv file.</li>
+</ol>
 <br>
+<h4>Run Command :</h4>
 
+<p>python weatherforecast.py</p>
+<br>
+<h4>Output :</h4>
