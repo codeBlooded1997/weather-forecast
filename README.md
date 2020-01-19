@@ -3,10 +3,10 @@
 <p>Fall 2019</p>
 <br>
 <h2>What I learned :</h2>
-<ol>
+<ul>
   <li>Using panda library to store information into a pandas data frame</li>
   <li>Writing stored data into a csv file.</li>
-</ol>
+</ul>
 <br>
 <h4>Run Command :</h4>
 
