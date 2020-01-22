@@ -5,7 +5,7 @@
 <br>
 <h2>What I learned :</h2>
 <ul>
-  <li>Using panda library to store information into a pandas data frame</li>
+  <li>Using pandas library to store information into a pandas data frame</li>
   <li>Writing stored data into a csv file.</li>
 </ul>
 <br>
