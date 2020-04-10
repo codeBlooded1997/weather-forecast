@@ -38,14 +38,14 @@ weather_stuff.to_csv(extention + '-weather.csv')
 print("CSV FILE CREATED")
 
 # Sending SMS
-account_sid = "AC81b4362f605c6398a48da412dcff6926"
-auth_token  = "84aa917ee50e1f59bf7c1d1264f7d1c3"
-client = Client(account_sid, auth_token)
-message = client.messages.create(
-   to="+14387004763",
-   from_="+16194326457",
-   body=str(weather_stuff)
-)
+#account_sid = "AC81b4362f605c6398a48da412dcff6926"
+#auth_token  = "84aa917ee50e1f59bf7c1d1264f7d1c3"
+#client = Client(account_sid, auth_token)
+#message = client.messages.create(
+#   to="+14387004763",
+#   from_="+16194326457",
+#   body=str(weather_stuff)
+#)
 
-print()
-print("A TEXT MASSAGE HAS BEEN SEND.")
+#print()
+#print("A TEXT MASSAGE HAS BEEN SEND.")
